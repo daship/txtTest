@@ -2,3 +2,8 @@ public main()
 {
 	console.write("init");
 }
+
+public add(int a, int b)
+{
+return a+b;
+}
