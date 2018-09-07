@@ -6,12 +6,15 @@ public main()
 public add(int a, int b)
 {
 return a+b;
-
+}
 public minus(int a, int b)
 {
 return a-b;
 }
-
+public div(int a, int b)
+{
+return a/b;
+}
 public mutiply(int a, int b)
 {
 return a*b;
